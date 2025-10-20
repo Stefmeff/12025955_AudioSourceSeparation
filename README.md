@@ -14,7 +14,7 @@ while having an already existing open source project with dataset as an orientat
 
 - Literature Review: Study deep learning methods for source seperation and understand the open source implementation on SigSep (2 days)
 - Design a rough draft of my own pipeline (1 day)
-- Data Preparation: prepare datasets and understand how they should be preprocessed (e.g. Short-Time Fourier Analysis for spectorgrams) (2 days)
+- Data Preparation: Understand and implement data preprocessing (e.g. Short-Time Fourier Analysis for spectorgrams) (2 days)
 - Base Implementation of Model (4 days)
 - Training, Debugging and Fine Tuning (4 days)
 - Testing and evaluation results (1-2 days)
