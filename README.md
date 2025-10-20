@@ -1,14 +1,14 @@
 # Audio Source Seperation (Stefan Moser, 12025955)
 
-- **Goal:** Seperating a song into its individual stems like vocals, drums, bass and other instrumentals
+- **Goal:** Seperating a song into its individual stems like vocals, drums, bass and other instruments
 
 - **Project Type:** *Bring your own method*
 
-Since I am new to deep learning, I choose this proposed topic as I found there is much learning material
+Since I am new to deep learning, I chose this proposed topic as I found there is much learning material
 available on the provided source SigSep [1].
 
 My goal would be to implement my own neural network architecture and learn all the needed deep learning concepts, 
-while having an already existing open source project with dataset as an orientation [2]. Additionally to the provided datasets on SigSep, I found a dataset [3] for music source seperation, including 240 tracks with their associated stems covering different genres (available on github [4]). Since this dataset is not part of the datasets available on SigSep, one of my tasks would be to preprocess this dataset making it compatible with the model. The idea would then be to implement and train the model by pairing the full audio tracks with their seperated sources. For a general introduction to the topic of source seperation, I also found this survey "Musical Source Separation: An Introduction" [5]. 
+while having an already existing open source project along with its dataset as an orientation [2]. Additionally to the provided datasets on SigSep, I found a dataset [3] for music source seperation, including 240 tracks with their associated stems covering different genres (available on github [4]). Since this dataset is not part of the datasets available on SigSep, one of my tasks would be to preprocess this dataset making it compatible with the model. The idea would then be to implement and train the model by pairing the full audio tracks with their seperated sources. For a general introduction to the topic of source seperation, I also found this survey "Musical Source Separation: An Introduction" [5]. 
 
 # Work Breakdown
 
